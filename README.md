@@ -10,8 +10,8 @@ Currently, I'm on a thrilling journey in a full-stack bootcamp, honing my skills
 🌍 Apart from my career aspirations, I volunteer as a Harm Reduction Technician at APDES, an organization dedicated to promoting social inclusion through cross-community projects.
 
 ## let's connect!
-📧 Interested in connecting or discussing opportunities? Feel free to drop me a line at luanatrindade.dev@gmail.com 📬🚀
-Feel free to explore my repositories and share your thoughts. Happy coding! 🚀✨
+📧 Interested in connecting or discussing opportunities? Feel free to drop me a line at luanatrindade.dev@gmail.com 📬
+Aaaand... feel free to explore my repositories and share your thoughts. Happy coding! :) 🚀✨
 
 ## tools I've worked with
 <p align= left>
