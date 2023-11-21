@@ -11,7 +11,7 @@ Currently, I'm on a thrilling journey in a full-stack bootcamp, honing my skills
 
 ## let's connect!
 📧 Interested in connecting or discussing opportunities? Feel free to drop me a line at luanatrindade.dev@gmail.com 📬
-Aaaand... feel free to explore my repositories and share your thoughts. Happy coding! :) 🚀✨
+Aaaand... feel free to explore my repositories and share your thoughts. Happy coding! 🚀✨
 
 ## tools I've worked with
 <p align= left>
