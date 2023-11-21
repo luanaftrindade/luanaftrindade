@@ -2,7 +2,7 @@
 welcome to my coding adventure! 👩‍💻✨
 
 ## about me
-After two years of mastering the art of IT recruitment, I've decided to dive headfirst into the enchanting world of coding! 🧙‍♂️🌝 
+After two years of mastering the challenges of IT recruitment, I've decided to dive headfirst into the enchanting world of coding! 🧙‍♂️🌝 
 Currently, I'm on a thrilling journey in a full-stack bootcamp, honing my skills in software development. My goal is to secure a brand new job in the development world, where I can unleash my creativity and tackle challenges that push me to think outside the box. 🧠
 
 ## what I'm up to
