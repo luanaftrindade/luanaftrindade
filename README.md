@@ -3,7 +3,7 @@ welcome to my coding adventure! 👩‍💻✨
 
 ## about me
 After two years of mastering the challenges of IT recruitment, I've decided to dive headfirst into the enchanting world of coding! 🧙‍♂️🌝 
-Currently, I'm on a thrilling journey in a full-stack bootcamp, honing my skills in software development. My goal is to secure a brand new job in the development world, where I can unleash my creativity and tackle challenges that push me to think outside the box. 🧠
+Currently, I'm on a thrilling journey in a full-stack bootcamp, honing my skills in software development. My goal is to land a brand new job in development, where I can let my creativity run wild and embrace challenges that make me think outside the box.🧠
  When I'm not busy crafting code, you'll find me grooving to the beats of my favorite music or lost in some movie. 🎬
 
 ## let's connect!
