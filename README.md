@@ -3,12 +3,11 @@ welcome to my coding adventure! 👩‍💻✨
 
 ## about me
 After two years of mastering the challenges of IT recruitment, I've decided to dive headfirst into the enchanting world of coding! 🧙‍♂️🌝 
-Currently, I'm on a thrilling journey in a full-stack bootcamp, honing my skills in software development. My goal is to land a brand new job in development, where I can let my creativity run wild and embrace challenges that make me think outside the box.🧠
- When I'm not busy crafting code, you'll find me grooving to the beats of my favorite music or lost in some movie. 🎬
+I recently completed a 3.5-month intensive bootcamp where I learned how to become a junior full-stack developer, and currently I am looking for a new job in development, where I can let my creativity run wild and embrace challenges that make me think outside the box.🧠 When I'm not busy crafting code, you'll find me grooving to the beats of my favorite music or lost in some movie. 🎬 
 
 ## let's connect!
 📧 Interested in connecting or discussing opportunities? Feel free to drop me a line at luanatrindade.dev@gmail.com 📬
-Aaaand... feel free to explore my repositories too. Happy coding! 🚀✨
+Aaaand... feel free to explore my repositories too. Yes, I'm doing a lot of simple games... It's one of my new ways to spend time. Happy coding! 🚀✨
 
 ## tools I've worked with
 <p align= left>
