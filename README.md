@@ -7,7 +7,7 @@ I recently completed a 3.5-month intensive bootcamp where I learned how to becom
 
 ## let's connect!
 📧 Interested in connecting or discussing opportunities? Feel free to drop me a line at luanatrindade.dev@gmail.com 📬
-Aaaand... feel free to explore my repositories too. Yes, I'm doing a lot of simple games... It's one of my new ways to spend time. Happy coding! 🚀✨
+Aaaand... feel free to explore my repositories too. Yes, I'm doing a lot of simple games... It's one of my new favorite ways to spend time. Happy coding! 🚀✨
 
 ## tools I've worked with
 <p align= left>
