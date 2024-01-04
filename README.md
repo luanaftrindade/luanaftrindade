@@ -2,7 +2,7 @@
 welcome to my coding adventure! 👩‍💻✨
 
 ## about me
-After two years of mastering the challenges of IT recruitment, I've decided to dive headfirst into the enchanting world of coding! 🧙‍♂️🌝 When I'm not busy crafting code, you'll find me grooving to the beats of my favorite music or lost in some movie. 🎬 
+After two years of mastering the challenges of IT recruitment, I've decided to dive headfirst into the world of coding! 🧙‍♂️🌝 When I'm not busy crafting code, you'll find me grooving to the beats of my favorite music or lost in some movie. 🎬 
 
 ## let's connect!
 📧 Interested in connecting or discussing opportunities? Feel free to drop me a line at luanatrindade.dev@gmail.com 📬
