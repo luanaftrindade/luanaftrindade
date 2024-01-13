@@ -1,5 +1,5 @@
 
-welcome to my coding adventure! 👩‍💻✨
+welcome to my gitHub! 👩‍💻✨
 
 ## about me
 After two years of mastering the challenges of IT recruitment, I've decided to dive headfirst into the world of coding! 🧙‍♂️🌝 When I'm not busy crafting code, you'll find me grooving to the beats of my favorite music or lost in some movie. 🎬 
