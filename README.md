@@ -23,7 +23,7 @@ Aaaand... feel free to explore my repositories too. Happy coding! 🚀✨
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs" alt="GitHub Stats" style="max-width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="GitHub Stats" style="max-width: 100%;">
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=luanaftrindade&show_icons=true&theme=dracula" alt="GitHub Stats" style="max-width: 100%;">
