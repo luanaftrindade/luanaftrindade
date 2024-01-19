@@ -27,6 +27,7 @@ Aaaand... feel free to explore my repositories too. Happy coding! 🚀✨
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaftrindade&layout=compact" alt="Most Used Languages" style="max-width: 100%;">
 </a>
 </div>
+
 <div style="display: flex; justify-content: center;"> 
 
     <a style="margin-right:10%;">
