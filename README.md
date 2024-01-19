@@ -23,4 +23,4 @@ Aaaand... feel free to explore my repositories too. Happy coding! 🚀✨
 </p>
 
 ## most used languages
-<img src="https://camo.githubusercontent.com/e778e038ce5d13fdb51ceea62d6b4819bf4e808863c1f441072590df7f300784/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d726974617a657665646f267468656d653d64656661756c74266c61796f75743d636f6d70616374" alt="GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaftrindade&amp;theme=default&amp;layout=compact" style="max-width: 100%;">
+<img src="(https://github-readme-stats.vercel.app/api?username=luanaftrindade" alt="GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaftrindade&amp;theme=default&amp;layout=compact" style="max-width: 100%;">
