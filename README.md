@@ -27,3 +27,6 @@ Aaaand... feel free to explore my repositories too. Happy coding! 🚀✨
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=luanaftrindade&show_icons=true&theme=buefy" alt="GitHub Stats" style="max-width: 100%;">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=luanaftrindade&repo=wineBarWebsite" alt="GitHub Stats" style="max-width: 100%;">
+
