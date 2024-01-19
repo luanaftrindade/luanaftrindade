@@ -23,4 +23,4 @@ Aaaand... feel free to explore my repositories too. Happy coding! 🚀✨
 </p>
 
 ## most used languages
-<img src="(https://github-readme-stats.vercel.app/api?username=luanaftrindade" alt="GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaftrindade&amp;theme=default&amp;layout=compact" style="max-width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api?username=luanaftrindade" alt="GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaftrindade&amp;theme=default&amp;layout=compact" style="max-width: 100%;">
