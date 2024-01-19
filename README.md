@@ -23,7 +23,7 @@ Aaaand... feel free to explore my repositories too. Happy coding! 🚀✨
 </p>
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaftrindade&layout=compact&custom_title=most,used,languages" alt="Most Used Languages" style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaftrindade&layout=compact&custom_title=most.used.languages" alt="Most Used Languages" style="max-width: 100%;">
 
 <div style="display: flex; justify-content: center;"> 
     <a style="margin-right:10%;">
