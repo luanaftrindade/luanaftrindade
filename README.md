@@ -23,12 +23,11 @@ Aaaand... feel free to explore my repositories too. Happy coding! 🚀✨
 </p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaftrindade&layout=compact" alt="Most Used Languages" style="max-width: 100%;">
 <div style="display: flex; justify-content: center;">
-    <a style="margin-right: 10px;">
+    <a style="margin-right: 10%;">
         <img src="https://github-readme-stats.vercel.app/api?username=luanaftrindade&show_icons=true&theme=buefy" alt="GitHub Stats" style="max-width: 100%;">
     </a>
     <a>
-       <img src="https://github-readme-stats.vercel.app/api/pin/?username=luanaftrindade&repo=wineBarWebsite" alt="GitHub Stats" style="max-width: 100%;">
-
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=luanaftrindade&repo=wineBarWebsite&theme=buefy" alt="GitHub Stats" style="max-width: 100%;">
     </a>
 </div>
 
