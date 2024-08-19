@@ -2,7 +2,7 @@
 welcome to my gitHub! 👩‍💻✨
 
 ## about me
-After two years of mastering the challenges of IT recruitment, I've decided to dive headfirst into the world of coding! 🧙‍♂️🌝 When I'm not busy crafting code, you'll find me grooving to the beats of my favorite music or lost in some movie. 🎬 
+I'm a software developer that loves to work with web development (mostly with JavaScript and React.js).
 
 ## let's connect!
 📧 Interested in connecting or discussing opportunities? Feel free to drop me a line at luanatrindade.dev@gmail.com 📬
