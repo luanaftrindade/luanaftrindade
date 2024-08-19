@@ -2,7 +2,7 @@
 welcome to my gitHub! 👩‍💻✨
 
 ## about me
-I'm a software developer that loves to work with web development (mostly with JavaScript and React.js).
+I'm a portuguese software developer that loves to work with web development (mostly with JavaScript and React.js).
 
 ## let's connect!
 📧 Interested in connecting or discussing opportunities? Feel free to drop me a line at luanatrindade.dev@gmail.com 📬
