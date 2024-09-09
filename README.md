@@ -29,9 +29,7 @@ Aaaand... feel free to explore my repositories too. Happy coding! 🚀✨
     <a style="margin-right:10%;">
         <img src="https://github-readme-stats.vercel.app/api?username=luanaftrindade&show_icons=true&theme=buefy&rank_icon=github" alt="GitHub Stats" style="width: 45%;">
     </a>
-    <a href="https://github.com/luanaftrindade/wineBarWebsite">
-       <img src="https://github-readme-stats.vercel.app/api/pin/?username=luanaftrindade&repo=wineBarWebsite&theme=buefy" alt="GitHub Stats" style="width: 50%;">
-    </a>
+
 </div>
 
 
