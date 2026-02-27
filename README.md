@@ -2,11 +2,7 @@
 welcome to my gitHub! 👩‍💻✨
 
 ## about me
-I'm a portuguese software developer that loves to work with web development (mostly with JavaScript, TypeScript, React.js and Node.js).
-
-## let's connect!
-📧 Interested in connecting or discussing opportunities? Feel free to drop me a line at luanatrindade.dev@gmail.com 📬
-Aaaand... feel free to explore my repositories too. Happy coding! 🚀✨
+I'm a software developer that loves to work with web development (mostly with JavaScript, TypeScript, React.js and Node.js).
 
 ## tools I've worked with
 <p align= left>
@@ -22,13 +18,6 @@ Aaaand... feel free to explore my repositories too. Happy coding! 🚀✨
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
 </p>
 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaftrindade&layout=compact" alt="Most Used Languages" style="max-width: 100%;">
-
-<div style="display: flex; justify-content: center;"> 
-    <a style="margin-right:10%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=luanaftrindade&show_icons=true&theme=buefy&rank_icon=github" alt="GitHub Stats" style="width: 45%;">
-    </a>
 
 </div>
 
