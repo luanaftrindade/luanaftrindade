@@ -2,7 +2,7 @@
 welcome to my gitHub! 👩‍💻✨
 
 ## about me
-I'm a software developer that loves to work with web development (mostly with JavaScript, TypeScript, React.js and Node.js).
+I'm a software developer that loves to work with web development and custom applications.
 
 ## tools I've worked with
 <p align= left>
